@@ -18,5 +18,5 @@ Why not use a potentiometer?
 While a potentiometer would simplify the design greatly and provide continuous dimming control, I opted to use the resistor selector because I wanted to explore a variety of ICs and different circuit designs. 
 
 ## Prototype
-<img src="images/prototype.jpg" width="75%" />
+<img src="images/prototype.jpg" width="50%" />
 <img src="images/breadboard_test.gif" />
