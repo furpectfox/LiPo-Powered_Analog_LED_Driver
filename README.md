@@ -19,4 +19,4 @@ While a potentiometer would simplify the design greatly and provide continuous d
 
 ## Prototype
 <img src="images/prototype.jpg" width="75%" />
-![breadboard_test](images/breadboard_test.gif)
+<img src="images/breadboard_test.gif" />
