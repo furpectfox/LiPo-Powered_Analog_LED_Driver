@@ -1,6 +1,8 @@
 # Lipo-Powered Analog LED Driver (on-going project)
 This circuit uses only ICs and discrete components to control the dimming of an LED bar. No microcontroller is involved.
 
+[schematic](schematic.pdf)
+
 ## Features:
 
 ### Voltage Doubler:
