@@ -23,4 +23,4 @@ While a potentiometer would simplify the design greatly and provide continuous d
 
 ## PCB Layout
 ***Layout designed for homemade one-sided PCB***  
-<img src="images/pcb_layout.png" width="50%" />
+<img src="images/pcb_layout.png" width="75%" />
