@@ -33,12 +33,13 @@ Below is an example of a 25% duty cycle PWM signal:
 The circuit also allows a gradual voltage fall at the MOSFET gate, preventing high reverse voltage spikes at the drain (caused by long wiring acting as an inductor).
 
 ## Prototype
-<img src="images/prototype.jpg" width="25%" /><img src="images/breadboard_test.gif" width="90%" />
+<img src="images/prototype.jpg" width="25%" /><img src="images/breadboard_test.gif" width="33%" />
 
 ## PCB Layout
 ***The PCB layout was designed for homemade single-sided PCB fabrication using [this PCB plotter attachment](https://github.com/furpectfox/PCB_Trace_Plotter)***  
 <img src="images/pcb_layout.png" width="75%" />
 
 ## Finish
-<img src="images/pcb_front.jpg" width="50%" /><img src="images/pcb_back.jpg" width="50%" />
+<img src="images/pcb_front.jpg" width="50%" />  
+<img src="images/pcb_back.jpg" width="50%" />
 
