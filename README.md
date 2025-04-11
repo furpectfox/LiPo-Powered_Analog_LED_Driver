@@ -26,7 +26,7 @@ The yellow trace shows the battery voltage (~4V). The blue trace shows the boost
 <img src="images/pwm_generator.png" width="50%" />  
 
 Below is an example of a 25% duty cycle PWM signal:
-* Top image: Triangular wave (yellow) vs. DC reference voltage (blue). Adjusting the level of the DC reference votlage will vary the duty cycle of the output square wave.
+* Top image: Triangular wave (blue) vs. DC reference voltage (yellow). Adjusting the level of the DC reference votlage will vary the duty cycle of the output square wave.
 * Bottom image: Resulting gate drive signal (blue) (~8V amplitude).  
 <img src="images/triangular_and_DC_reference_25%25.bmp" width="25%" />  
 <img src="images/gate_voltage_25%25dutycycle.bmp" width="25%" />  
